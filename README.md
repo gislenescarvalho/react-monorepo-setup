@@ -4,6 +4,4 @@ Simple React Monorepo Setup using Vite
 Based on follow article: https://adeesh.hashnode.dev/react-vite-monorepo-setup
 
 Fire up the main application using:
-
-#  yarn main
-
+<b> yarn main </b>
